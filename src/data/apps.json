@@ -1,0 +1,24 @@
+{
+  "latest": "1.0.0",
+  "apps": [
+    {
+      "id": "ner-u-me",
+      "name": "Nêr û Mê",
+      "text": "Zayenda navdêrên kurmancî."
+    },
+    {
+      "id": "tewandin",
+      "name": "Tewandin",
+      "text": "Lêkerên kurmancî di 15 deman de.",
+      "ios": "https://apps.apple.com/app/id6828051796",
+      "android": "https://play.google.com/store/apps/details?id=ch.lusineweb.tewandin",
+      "web": "https://lusineweb.ch/produits/tewandin/"
+    },
+    {
+      "id": "ferheng",
+      "name": "Ferheng",
+      "text": "Ferhenga kurmancî.",
+      "web": "https://lusineweb.ch/produits/"
+    }
+  ]
+}
