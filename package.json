@@ -1,0 +1,11 @@
+{
+  "name": "ner-u-me-data",
+  "private": true,
+  "description": "Zayenda navdêrên kurmancî ji Wîkîferhengê, ji bo sepana Nêr û Mê",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-nouns.mjs ner-u-me-wiki.json && node scripts/build-data.mjs ner-u-me-wiki.json",
+    "data": "node scripts/build-data.mjs ner-u-me-wiki.json",
+    "test": "node scripts/test-extract.mjs"
+  }
+}
