@@ -4,7 +4,9 @@
     {
       "id": "ner-u-me",
       "name": "Nêr û Mê",
-      "text": "Zayenda navdêrên kurmancî."
+      "text": "Zayenda navdêrên kurmancî.",
+      "ios": "https://apps.apple.com/app/id6828885063",
+      "web": "https://lusineweb.ch/produits/ner-u-me/"
     },
     {
       "id": "tewandin",
@@ -18,7 +20,9 @@
       "id": "ferheng",
       "name": "Ferheng",
       "text": "Ferhenga kurmancî.",
-      "web": "https://lusineweb.ch/produits/"
+      "web": "https://lusineweb.ch/produits/",
+      "ios": "https://apps.apple.com/app/id6829458877",
+      "android": "https://play.google.com/store/apps/details?id=ch.lusineweb.ferheng"
     }
   ]
 }
